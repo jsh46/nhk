@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc98e61f72faf9c4a5432e7e298df7cba176e24d7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x4f84f8656572afd7e2880865ca7566e0bb13aa96db6b69cc2ffd918cfc960f3a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Emoji Heroes",
+  "SYMBOL": "EH",
+  "MAX_SUPPLY": 2022,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/emoji-heroes",
+  "SHOW_BACKGROUND": true
+}
